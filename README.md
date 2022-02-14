@@ -1,4 +1,4 @@
-# NBA Payrolls and Performance: An exploratory analysis on how payrolls are distributed and what affect this has on performance
+# NBA Payrolls and Performance: An exploratory analysis on salary distribution and the affects this has on performance
 
 #### 2016-2017, 2017-2018 (Kyle Carlson)
 
