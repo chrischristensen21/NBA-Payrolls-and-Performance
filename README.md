@@ -1,4 +1,4 @@
-# NBA Analysis 
+# NBA Payrolls and Performance: An exploratory analysis on how payrolls affect performance
 
 #### 2016-2017, 2017-2018 (Kyle Carlson)
 
