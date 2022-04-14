@@ -47,7 +47,7 @@ The Raptors won because they played a more strategic approach to roster construc
 
 The number of wins and the cost per win from the 1990-91 season to the 2018-19 season is almost reversed. The teams with the best cost per win efficiency, simply often have the most wins.
 
-![NBA Average Yearly Wins From 1990-91 to 2018-19]([https://github.com/chrischristensen21/NBA-Payrolls-and-Performance/blob/main/NBA%20Payrolls%20Vs%20Performance%20Charts/NBA%20Average%20Yearly%20Wins%20From%201990-91%20to%202018-19.png)
+![NBA Average Yearly Wins From 1990-91 to 2018-19](https://github.com/chrischristensen21/NBA-Payrolls-and-Performance/blob/main/NBA%20Payrolls%20Vs%20Performance%20Charts/NBA%20Average%20Yearly%20Cost%20Per%20Win%20From%201990-91%20to%202018-19.png?raw=true)
 
 ![NBA Average Yearly Cost Per Win From 1990-91 to 2018-1](https://github.com/chrischristensen21/NBA-Payrolls-and-Performance/blob/main/NBA%20Payrolls%20Vs%20Performance%20Charts/NBA%20Average%20Yearly%20Cost%20Per%20Win%20From%201990-91%20to%202018-19.png)
 
