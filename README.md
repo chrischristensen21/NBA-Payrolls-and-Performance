@@ -43,6 +43,14 @@ The Raptors won because they played a more strategic approach to roster construc
 
 #### NBA Payrolls vs Performance (Chris Christensen)
 
+###### What is the Win per Cost Efficiency of the NBA from the 1990-91 season to the 2018-19 season?
+
+The number of wins and the cost per win from the 1990-91 season to the 2018-19 season is almost reversed. The teams with the best cost per win efficiency, simply often have the most wins.
+
+![NBA Average Yearly Wins From 1990-91 to 2018-19]([https://github.com/chrischristensen21/NBA-Payrolls-and-Performance/blob/main/NBA%20Payrolls%20Vs%20Performance%20Charts/NBA%20Average%20Yearly%20Wins%20From%201990-91%20to%202018-19.png)
+
+![NBA Average Yearly Cost Per Win From 1990-91 to 2018-1](https://github.com/chrischristensen21/NBA-Payrolls-and-Performance/blob/main/NBA%20Payrolls%20Vs%20Performance%20Charts/NBA%20Average%20Yearly%20Cost%20Per%20Win%20From%201990-91%20to%202018-19.png)
+
 ###### Is there a correlation between wins and the percent salary cap used?
 
 Doing a scatter plot of the percent salary cap used vs the number of wins from the 1990-91 season to the 2018-19 season there was no correlation. 
