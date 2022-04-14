@@ -55,7 +55,8 @@ The number of wins and the cost per win from the 1990-91 season to the 2018-19 s
 
 Doing a scatter plot of the percent salary cap used vs the number of wins from the 1990-91 season to the 2018-19 season there was no correlation. 
 
-![NBA Percent Salary Cap Used vs Wins from 1990-91 to 2018-19.png](https://github.com/Kylec66/NBA-Analysis/blob/main/NBA%20Payrolls%20Vs%20Performance%20Charts/NBA%20Percent%20Salary%20Cap%20Used%20vs%20Wins%20from%201990-91%20to%202018-19.png?raw=true)
+![NBA Percent Salary Cap Used vs Wins from 1990-91 to 2018-19.png](https://github.com/chrischristensen21/NBA-Payrolls-and-Performance/blob/main/NBA%20Payrolls%20Vs%20Performance%20Charts/NBA%20Average%20Yearly%20Wins%20From%201990-91%20to%202018-19.png)
+
 
 There was a stronger correlation between wins and win/cost efficiency, arguing that team payrolls had vary little affect on the number of wins. 
 
